@@ -15,3 +15,7 @@ table{
 th{
     background-color: rgb(240, 216, 0, 30%)
 }
+
+td{
+    background-color: rgb(240, 216, 0, 20%);
+}

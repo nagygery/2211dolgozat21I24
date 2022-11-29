@@ -11,3 +11,7 @@ body{
 table{
     width: 100%;
 }
+
+th{
+    background-color: rgb(240, 216, 0, 30%)
+}
